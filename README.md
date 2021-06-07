@@ -1,2 +1,4 @@
 # laravel-notes
-Some technical/non-technical notes for building a Laravel application
+This repository includes some technical/non-technical notes for building a Laravel application.
+
+1. [Configure PhpStorm for Laravel development]()
